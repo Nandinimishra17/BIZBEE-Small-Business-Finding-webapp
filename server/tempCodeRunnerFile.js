@@ -1,0 +1,1 @@
+Post.insertMany(posts);
